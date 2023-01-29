@@ -1,0 +1,7 @@
+span[aria-label="1"]:empty {
+    background-image: url("https://server.saurabhtiwari8.repl.co/?img=1");
+}
+
+body {
+    background-image: url("https://server.saurabhtiwari8.repl.co/?img=body");
+}
